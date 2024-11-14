@@ -1,4 +1,4 @@
-# NannaphatProject
+# About me
 
 Welcome to my GitHub repository, where I store the projects I work on as part of my learning journey. This repository contains a variety of projects, including web applications, cloud-based systems, and more, showcasing my skills and progress.
 
