@@ -1,0 +1,6 @@
+วิธีติดตั้ง Project-Music Box
+
+1. ดาวน์โหลดโฟลเดอร์ CS299Project-Music Box
+2. เปิดเทอร์มินัลหรือคอนโซลแล้วเข้าไปที่โฟลเดอร์ที่ดาวน์โหลดไฟล์มา
+3. รันคำสั่ง python3 -m http.server หรือ python -m http.server
+4. เปิดเบราว์เซอร์และไปที่ http://localhost:8000 เพื่อดู Model Music Box
