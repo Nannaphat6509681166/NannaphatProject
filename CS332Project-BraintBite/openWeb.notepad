@@ -1,0 +1,1 @@
+{"bgColorIndex":0,"note":"-dowload labsuser.pem\n-terminal > brainy-bite\n-ssh -i labsuser.pem (link from ec2)\n-java -jar brainy-bite-0.0.1-SNAPSHOT.jar","textColorIndex":1}
