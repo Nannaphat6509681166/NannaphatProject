@@ -6,4 +6,4 @@ including web applications, 3d model, and more, showcasing my skills and progres
 # Contact
 If you have any questions or feedback, feel free to reach out to me via GitHub or email.
 
-Email: nannaphat.nga@dome.tu.ac.th
+Email: tunpicha.nannaphat@gmail.com
